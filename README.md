@@ -1,6 +1,5 @@
 # Bitcoin-project
 
-
 In this project, I'll create a program that that tells
 me when the value of your Bitcoin falls below $30,000.
 
